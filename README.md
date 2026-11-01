@@ -1,3 +1,5 @@
+<img width="1830" height="987" alt="image" src="https://github.com/user-attachments/assets/54f3ba84-6a3e-44bb-84fa-c1aa68a72723" />
+
 # Hyderabad Urban Encroachment Analytics
 
 An end-to-end geospatial pipeline on Databricks (serverless + Apache Sedona) that maps every lake/tank in Greater Hyderabad (GHMC), names it, and detects potential urban encroachment inside its legally protected zones.
